@@ -31,9 +31,11 @@ If you want to visualize the projects and play with the interactivity :
 * Use your mouse to interact with the design
 
 *Note for **Rewriting with colors***  :
-⚠️🔊 SOUND WARNING 🔊 ⚠️ : Depending on the devices the sound might be loud.
+
+⚠️🔊 SOUND WARNING 🔊 ⚠️ Depending on the devices the sound might be loud.
 
 *Note for **Rewriting with typography***  :
+
 If you have a Tobii EyeTracker you can use the eyetracker version of the project.
 For that you will need to have the GazeTrack library and the TobiiStream application.
 You can find the files and installation informations [here](http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/).
