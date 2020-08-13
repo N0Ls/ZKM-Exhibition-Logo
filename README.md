@@ -33,11 +33,11 @@ We created a generative and random shape made with four branches/triangles. The 
 Not only it as a generative logo, but it is also interactive for the spectator who has an impact on the shape. By moving the mouse on the shape, the end of the branch attaches itself to the mouse and the spectator can control this part of the shape. By doing that, the spectator is blocking the flow of randomness generate where is mouve is standing. The idea was inspired by Bruno Christophe because we wanted to stop the structural fluidity, to have an impact on what computers are genereting and show it to the spectator.
 By this control is only partial, because only one branch is trapped and controled by the mouse. The other three are still generated randomly. In this way, we wanted to say that our logo shows the real impact that we have on technologies today. Indeed, we can have an impact on something at a specific time and depending on what our actions are, but in reality, it is only one part which is control, the rest still works regardless of our actions. That is why our logo summarizes the action of man on computers and its structural fluidity.
 
-<img src=".\medias\RewriteWithColors_Schema.PNG" style="zoom:33%;" />
+<img src="./medias/RewriteWithColors_Schema.PNG" style="zoom:33%;" />
 
 ### Posters with our logo
 
-![](.\medias\RewriteWithColors_Poster1.png) ![](.\medias\RewriteWithColors_Poster2.png) 
+![sd](./medias/RewriteWithColors_Poster1.png) ![sd](./medias/RewriteWithColors_Poster2.png) 
 
 ## Project 2 : Rewriting with typography
 
