@@ -16,7 +16,28 @@ The idea with this project is to come up with an alternative logo for this exhib
 
 ## Project 1 : Rewriting with colors
 
+### Inspirations
 
+The general concept of this logo is based on colors. We wanted to used every single color possible. As a result, the chromatic circle of Johanes Itten is our major inspiration.
+
+For writing the title in the logo, we decided to use the font OCR-A (Optical Character Recognition). This font was made by Adrian Futiger and the National Institute of norms and the technology in 1966.
+It was created to be recognized by electronics devices (it is respecting some amount of specifics norms) in order to ease the treatment of documents. Each character is create on a 4x7 grid.
+
+The artist Jean-Paul Fourmentraux said interresting things about computer programming in the artistic creation.
+In fact, it is changing several things such as interactivity and autonomy. Interactivity is the fact of being manipulated because of the presence of an audience in the exhibition. Autonomy is the fact that artificial creatures can create art alone. Moreover, algorithms give art a generative form.
+That is why we thought that it was necessary to study and take into account the concepts of interactivty and autonomy of Fourmentraux.
+
+### Explanations 
+
+We created a generative and random shape made with four branches/triangles. The concept of randomness is important when we use the generative performance of an algorithm. That is why, we made the shape evolve all the time within a perpetual movement.
+Not only it as a generative logo, but it is also interactive for the spectator who has an impact on the shape. By moving the mouse on the shape, the end of the branch attaches itself to the mouse and the spectator can control this part of the shape. By doing that, the spectator is blocking the flow of randomness generate where is mouve is standing. The idea was inspired by Bruno Christophe because we wanted to stop the structural fluidity, to have an impact on what computers are genereting and show it to the spectator.
+By this control is only partial, because only one branch is trapped and controled by the mouse. The other three are still generated randomly. In this way, we wanted to say that our logo shows the real impact that we have on technologies today. Indeed, we can have an impact on something at a specific time and depending on what our actions are, but in reality, it is only one part which is control, the rest still works regardless of our actions. That is why our logo summarizes the action of man on computers and its structural fluidity.
+
+<img src=".\medias\RewriteWithColors_Schema.PNG" style="zoom:33%;" />
+
+### Posters with our logo
+
+<img src=".\medias\RewriteWithColors_Poster1.png" style="zoom:25%;" />
 
 ## Project 2 : Rewriting with typography
 
