@@ -37,7 +37,7 @@ By this control is only partial, because only one branch is trapped and controle
 
 ### Posters with our logo
 
-<img src=".\medias\RewriteWithColors_Poster1.png" style="zoom:25%;" />
+![](.\medias\RewriteWithColors_Poster1.png) ![](.\medias\RewriteWithColors_Poster2.png) 
 
 ## Project 2 : Rewriting with typography
 
