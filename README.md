@@ -37,7 +37,11 @@ By this control is only partial, because only one branch is trapped and controle
 
 ### Posters with our logo
 
-![sd](./medias/RewriteWithColors_Poster1.png) ![sd](./medias/RewriteWithColors_Poster2.png) 
+|                                               |                                               |
+| --------------------------------------------- | --------------------------------------------- |
+| ![sd](./medias/RewriteWithColors_Poster1.png) | ![sd](./medias/RewriteWithColors_Poster2.png) |
+
+ 
 
 ## Project 2 : Rewriting with typography
 
