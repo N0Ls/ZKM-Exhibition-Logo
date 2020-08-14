@@ -45,7 +45,18 @@ By this control is only partial, because only one branch is trapped and controle
 
 ## Project 2 : Rewriting with typography
 
+### Inspirations
 
+Our major inspiration for this logo is Hansjörg Mayer. 
+
+Hansjörg Mayer is an artist who worked a lot with the font Futura. Indeed, he created the magazine Futura, in which he invited several other artists to created a grid. The grid is decomposed in other grids in which letters are placed in differents ways. Those grids made by letters create really nice shapes, playing with the space and the font.
+He also made different artworks linked with the fact of working with typography. For example, Alphabet (1962) is one of his work and it is exposed in the ZKM exhibition, so it was even more important for us to quote him in our inspirations. Alphabet is a serie of 26 prints in which he played with the repetition of letters to create new forms, showing a new approach of typography.
+Mayer is also an artist of the computer art. He created artwork which were at the intersection between the poetic and the technological. By his work, he really marked his time and the history, and he managed to show how, in the 60’s, computers were able to create art by drawing randomly.
+It was important for us to talk about this artist, because his work about typography inspired us to create a logo by using only letters and play with typography in a grid.
+
+The idea of creating a grid link with some letters has also came to us thanks to Etienne Robial.
+He is a graphist, mostly famous because he created the graphic identity of the french TV channel Canal+.
+In particular, he created a font for Canal+ by creating a really specific grid. He is famous for his very accurate grids which allow him to have a really precise work. In fact, the police he created is really close to Futura, so it was even more important for our logo to study his work.
 
 ## Getting started
 
