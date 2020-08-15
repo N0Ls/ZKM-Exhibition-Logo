@@ -58,6 +58,21 @@ The idea of creating a grid link with some letters has also came to us thanks to
 He is a graphist, mostly famous because he created the graphic identity of the french TV channel Canal+.
 In particular, he created a font for Canal+ by creating a really specific grid. He is famous for his very accurate grids which allow him to have a really precise work. In fact, the police he created is really close to Futura, so it was even more important for our logo to study his work.
 
+### Explanations 
+
+For the font which is the center of our logo, we thought that using Futura was a great nod to Hansjörg Mayer.
+Then, we decided to create a grid made with the letters itself. A grid appeared to be an important element.
+First, as we said in the inspirations part, because a grid is necessary when it comes to working with typography.
+Second, because we also wanted to talk about the pixel grid. Indeed, the ZKM exhibition is about computer art, and pixels are omnipresent in the technological world, so talking about pixel grid seemed necessary. We added the computer side in the logo with the grid which is a wink for pixels and computer art.
+As a result, our logo combines both type of grids : the letters are placed very precisly as if it was on a pixel grid, except that it is not pixel but letters in Futura.
+
+The generative side of this logo is linked with an eye tracker. Indeed, when the spectator is watching a specific place of the logo, the letter which is concerned by the eye is pushed to another place. The letters are pushed randomly by an acceleration, and there are stopped by a friction force.
+In this way, the title can be destroy by the eye. But the letters are still framed and can’t go out of the square which forms the logo. Why ? Because we wanted to represent the fact that history can be framed, but inside history we can’t predict events (representing by the letters pushed randomly).
+Also, we wanted to show that we have an impact on the history ; we can change every little things (here letters) and have a real action on the writing of history (fully changing the logo). But there are also norms which are aligned with our society (such as the frame or the friction force), and they are reducing our impact or even erasing it. This is represented in the logo by the fact that we can click on the logo to give him back its original form and erase our « eye creation ».
+
+Why working with the eye ? Because the human body is another important aspect of the ZKM exhibition, and we wanted to create a real interaction with the humain body and the computer.
+
+
 ## Getting started
 
 If you want to visualize the projects and play with the interactivity :
