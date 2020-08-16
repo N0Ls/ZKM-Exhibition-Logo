@@ -72,6 +72,13 @@ Also, we wanted to show that we have an impact on the history ; we can change ev
 
 Why working with the eye ? Because the human body is another important aspect of the ZKM exhibition, and we wanted to create a real interaction with the humain body and the computer.
 
+### Posters with our logo
+
+|                                                   |                                                   |
+| ------------------------------------------------- | ------------------------------------------------- |
+| ![sd](./medias/RewriteWithTypography_Poster1.png) | ![sd](./medias/RewriteWithTypography_Poster2.png) |
+
+
 
 ## Getting started
 
